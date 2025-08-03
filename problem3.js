@@ -1,4 +1,4 @@
-var lastDay=4;
+var lastDay=15;
 
 for(i=1;i<=lastDay;i++){
     if(i%3==0){
@@ -10,3 +10,6 @@ for(i=1;i<=lastDay;i++){
 }
 
 //1 - rest
+//2 - rest
+//3 - medicine
+//4 - rest
